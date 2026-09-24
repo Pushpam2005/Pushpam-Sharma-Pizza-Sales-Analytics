@@ -111,15 +111,6 @@ Findings should be communicated as:
 
 Specific numerical claims should be based on the validated dataset and dashboard outputs.
 
-## Submission Checklist
-- [x] `PushpamSharma_PizzaSalesAnalytics.ipynb`
-- [x] `requirements.txt`
-- [x] `PushpamSharma_ProjectReport.docx`
-- [x] `README.md`
-- [x] Dataset source documented
-- [ ] Confirm the dataset was not used in the internship/masterclass sessions
-- [ ] Run the notebook from top to bottom before final submission
-
 ## Author
 **Pushpam Sharma**
 
